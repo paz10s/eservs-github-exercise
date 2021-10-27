@@ -1,4 +1,4 @@
-# INSTRUCTIONS
+# Instructions
 1. Fork this repo
 2. Clone this repo
 3. Make your own branch. You can name it anything you want!
